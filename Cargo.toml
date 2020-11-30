@@ -1,0 +1,11 @@
+[package]
+name = "noise_gen"
+version = "0.1.0"
+authors = ["LordClips"]
+edition = "2018"
+
+[dependencies]
+bracket-noise = "0.8.1"
+rand = "0.7.3"
+gif = "0.11.1"
+clap = "2.33.3"
